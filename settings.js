@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94762593247']
-global.premium = ['94762593247']
-global.ownernomer = '94762593247'
-global.ownername = 'YASHAN SAMARANAYAKE'
-global.botname = '🔮//𝑀𝑅.𝑌𝛥𝑆𝐻 𝐵𝛩𝑇//🔮'
-global.footer = 'CREATED BY YASHAN.'
+global.owner = ['94784777723']
+global.premium = ['94784777723']
+global.ownernomer = '94784777723'
+global.ownername = 'hasantha'
+global.botname = '🔮//hasantha//🔮'
+global.footer = 'CREATED BY hasantha.'
 global.ig = 'https://github.com/mryashK'
 global.region = 'Sri Lanka, Southern Province, Hambanthota'
 global.sc = 'https://github.com/mryashK'
 global.myweb = 'https://www.youtube.com/channel/UC_DLjCHzc5yPKcdVbsfYL7w'
-global.packname = '🔮//𝑀𝑅.𝑌𝛥𝑆𝐻 𝐵𝛩𝑇//🔮'
-global.author = 'YASHAN'
+global.packname = '🔮//hasantha//🔮'
+global.author = 'hasantha'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
